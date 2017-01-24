@@ -1,0 +1,18 @@
+﻿{
+  "main": "client/index.html",
+  "name": "socket聊天",
+  "description": "socket聊天",
+  "version": "1.0.0",
+  "single-instance":false,
+  "window": {
+    "icon": "logo.png",
+    "title": "socket聊天",
+    "toolbar": false,
+    "width": 375,
+    "height": 667,
+    "position": "center",
+    "min_width": 375,
+    "min_height": 667
+  }
+  
+}
